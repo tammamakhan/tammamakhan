@@ -1,8 +1,7 @@
 - Hi, I’m @tammamakhan
 - I’m interested in: AI/ML, Full Stack/Backend Development, Data Science
 - I’m currently learning: Natural Language Processing, Data Visualization
-- How to reach me: tammam.a.khan@gmail.com  
-                   linkedin.com/in/tammam-khan17
+- How to reach me: tammam.a.khan@gmail.com or [LinkedIn](https://www.linkedin.com/in/tammam-khan17/)
 
 <!---
 tammamakhan/tammamakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
