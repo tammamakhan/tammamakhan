@@ -1,5 +1,5 @@
 - Hi, I’m @tammamakhan
-- I’m interested in: AI/ML, Full Stack/Backend Development, Data Science
+- I’m interested in: Full-Stack Development, Data Science, AI/ML
 - How to reach me: tammam.a.khan@gmail.com or [LinkedIn](https://www.linkedin.com/in/tammam-khan17/)
 
 <!---
